@@ -1,0 +1,4 @@
+Color used:
+#0058ff - blue
+#6b7280 - semi black
+#e5edff - 
